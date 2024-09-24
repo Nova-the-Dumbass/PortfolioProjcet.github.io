@@ -1,0 +1,86 @@
+#navbar {
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  background-color: #463468;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.content {
+  padding: 16px;
+}
+
+.main{
+	font-size:72px;
+}
+
+.evil{
+	border-color:#FFBBBB;
+}
+
+.secondary{
+	color:#F4F0F4;
+	font-size:50px;
+	text-align:left;
+	text-decoration:underline;
+}
+
+.silly {
+    width: 30vw;
+    word-wrap: break-word;
+}
+
+.cube{
+	padding-top:1vh;
+	padding-left:0px;
+	padding-right:20vw;
+	max-width:175px;
+}
+
+.www{
+		padding-top:2.5vh;
+		padding-left:70vw;
+		padding-right:10vw;
+		max-width:50vw;
+	}
+
+.computer{
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:20vw;
+	max-width:500px;
+}
+
+.math{
+	padding-top:20px;
+	padding-left:20vw;
+	padding-right:5vw;
+	max-width:500px;
+	filter: invert(1);
+}
+
+.bad-design{
+	height:35vh;
+	width:100vw;
+}
+
+.kassy, .elegy{
+	padding-left:20px;
+	max-width:200px;
+	padding-right:30px;
+}
+
+.beeg{
+	height:3vh;
+	width:100%
+	background:none;
+	border:none;
+}
